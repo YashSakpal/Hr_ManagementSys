@@ -19,9 +19,9 @@ This is a mini HR Management System built using **SQL (MySQL)** to demonstrate c
 
 # 🔍 Sample Business Queries
 
-# 1. Employee names with department
-# 2. Departments with avg salary > 70K
-# 3. Employees earning above average
+1. Employee names with department
+2. Departments with avg salary > 70K
+3. Employees earning above average
 
 # 📌 Technologies Used
 
